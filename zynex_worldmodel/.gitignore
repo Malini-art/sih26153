@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*.csv
+data/*.npz
+models/*.pt
+models/*.pkl
+outputs/*.json
+outputs/*.png
+.streamlit/
